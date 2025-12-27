@@ -1,4 +1,4 @@
-
+import React from 'react';
 import React, { useState, useRef, useMemo, useEffect } from 'react';
 import { 
   FileUp, Download, Settings as SettingsIcon, Printer, AlertCircle, 
